@@ -1,6 +1,6 @@
 # linux-terminal-configs
 
-This repo contains the configs for my terminal setup (terminal emulator, "fetch" tool and Bash prompt) across my different Linux machines.
+This repo contains the configs for my terminal setup (terminal emulator, "fetch" tool, Bash prompt, etc) across my different Linux machines.
 
 **ℹ️ No, it's not empty. There is a branch for each one of my machines with their own tweaks to the configs (or complete different configs if I were using a different stack for a machine). The *main* branch will only have this README file.**
 
