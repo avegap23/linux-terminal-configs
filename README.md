@@ -2,6 +2,6 @@
 
 - [Alacritty](https://github.com/alacritty/alacritty)
 
-- [synth-shell script](https://github.com/andresgongora/synth-shell)
+- [synth-shell-prompt script](https://github.com/andresgongora/synth-shell-prompt)
 
 - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
