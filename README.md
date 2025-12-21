@@ -5,3 +5,6 @@
 - [synth-shell-prompt script](https://github.com/andresgongora/synth-shell-prompt)
 
 - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
+
+## 💻 Preview:
+<img src="screenshot.png" width="65%" />
