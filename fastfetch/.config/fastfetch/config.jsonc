@@ -45,6 +45,7 @@
     "cpu",
     "gpu",
     "memory",
+    "swap",
     "disk",
     "display",
     "break",
