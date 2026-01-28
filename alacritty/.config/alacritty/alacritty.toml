@@ -3,11 +3,11 @@ dimensions = { columns = 95, lines = 30 }
 padding = { x = 1, y = 0 }
 
 # Does not work on Wayland
-#position = { x = 20, y = 15 }
+position = { x = 35, y = 35 }
 
 # Does not work on X11
-opacity = 0.60
-blur = true
+#opacity = 0.60
+#blur = true
 
 [font]
 size = 11
