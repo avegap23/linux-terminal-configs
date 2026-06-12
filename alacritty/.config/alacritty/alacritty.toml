@@ -1,5 +1,5 @@
 [window]
-position = { x = 35, y = 35 }
+#position = { x = 35, y = 35 }
 dimensions = { columns = 100, lines = 30 }
 padding = { x = 1, y = 0 }
 #opacity = 0.5
