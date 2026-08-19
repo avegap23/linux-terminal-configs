@@ -50,6 +50,7 @@
     "disk",
     "display",
     "battery",
+    "localip",
     "break",
     "colors",
     "break"
