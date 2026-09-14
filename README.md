@@ -7,4 +7,4 @@
 - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
 ## 🖥️ Preview:
-<img src="screenshot.png" width="65%" />
+<img src="preview.png" width="65%" />
