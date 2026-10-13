@@ -1,6 +1,6 @@
 [window]
 #position = { x = 65, y = 65 }
-dimensions = { columns = 105, lines = 30 }
+dimensions = { columns = 108, lines = 32 }
 padding = { x = 1, y = 0 }
 #opacity = 0.5
 #blur = true
